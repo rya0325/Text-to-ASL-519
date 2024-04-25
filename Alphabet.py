@@ -10,3 +10,4 @@ output_images = []
 for character in input_text:
     image = letter_to_image_mapping[character]
     output_images.append(image)
+hhhh
